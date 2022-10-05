@@ -1,2 +1,2 @@
-# pharmacy-management-store
-A pharmacy point of sale and management system to manage medical store supplies, demand, and sales
+# pharamstore
+This App is built for online pharmacy management system rather than a pharamacy store 
